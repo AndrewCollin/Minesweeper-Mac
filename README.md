@@ -4,6 +4,7 @@
 <li>Left-Mouse-Click - To uncover the square</li>
 <li>Right-Mouse-Click - To place a flag on the square</li>
 </ul>
+<hr>
 <h3> Technologies </h3>
 <ul>
 <li>Python 3</li>
